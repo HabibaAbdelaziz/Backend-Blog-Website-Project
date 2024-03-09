@@ -36,7 +36,15 @@ You can create a README.md file in your main repository on GitHub with the follo
 markdown
 Copy code
 
+## All Blogs Page (Home Page)
+https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160727.png
 
+## About Page
+https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160751.png
 
+# Create New Blog Page
+https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160819.png
+
+## Blog 2 Example
 https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160644.png
 
