@@ -48,3 +48,5 @@ Copy code
 ## Blog 2 Example
 ![Blog-2-Example](https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160644.png)
 
+This project was created using tutorials uploaded by Net Ninja Youtube Channel.
+
