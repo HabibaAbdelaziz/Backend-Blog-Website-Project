@@ -37,7 +37,7 @@ markdown
 Copy code
 
 ## All Blogs Page (Home Page)
-https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160727.png
+![HomePage](https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160727.png)
 
 ## About Page
 https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160751.png
