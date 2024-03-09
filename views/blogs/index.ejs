@@ -1,0 +1,29 @@
+<html lang="en">
+  <%- include('../partials/head.ejs') %>
+<body>
+  
+  <!--Include contents from nav.ejs on partials folder here-->
+  <%- include('../partials/nav.ejs') %>
+
+  <div class="blogs content">
+    <h2>All Blogs</h2>
+
+    <!--Making sure all blogs have length more than zero-->
+    <% if (blogs.length > 0) { %>
+      <!--Iterating over each blog in blogs array-->
+      <% blogs.forEach(blog => { %>
+        <!-- Surrounding each blog in the homepage witha link. That way user is redirected to the blog when presses on the relevant blog link.-->
+        <a class="single" href="/blogs/<%= blog.id %>">
+          <h3 class="title"><%= blog.title %></h3>
+          <p class="snippet"><%= blog.snippet %></p>
+        </a>
+      <% }) %>
+    <!--If there isn't any blogs in blogs array, print an error mssg in webpage.-->
+    <% } else { %>
+      <p>There are no blogs to display</p>
+    <% } %>
+  </div>
+
+  <%- include('../partials/footer.ejs') %>
+</body>
+</html>

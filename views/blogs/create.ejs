@@ -1,0 +1,24 @@
+<html lang="en">
+  <%- include('../partials/head.ejs') %>
+<body>
+  <!--Include contents from nav.ejs on partials folder here-->
+  <%- include('../partials/nav.ejs') %>
+
+
+  <div class="create-blog content">
+    <!--action attribute in form tag below instructs the server where to POST the contents of the blog when user creates a new blog on the webpage-->
+    <form action="/blogs" method="POST">
+      <!--To attach all the contents of the newly written blog by user to the server, we have to add name attribute to each name tag. Name tag should be same as id tag.-->
+        <label for="title">Blog title:</label>
+        <input type="text" id="title" name="title" required>
+        <label for="snippet">Blog snippet:</label>
+        <input type="text" id="snippet" name="snippet" required>
+        <label for="body">Blog body:</label>
+        <textarea id="body" name="body" required></textarea>
+        <button>Submit</button>
+    </form>
+  </div>
+
+  <%- include('../partials/footer.ejs') %>
+</body>
+</html>
