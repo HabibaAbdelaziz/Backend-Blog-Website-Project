@@ -40,11 +40,11 @@ Copy code
 ![HomePage](https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160727.png)
 
 ## About Page
-https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160751.png
+![AboutPage](https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160751.png)
 
 # Create New Blog Page
-https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160819.png
+![Create-New-Blog-Page](https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160819.png)
 
 ## Blog 2 Example
-https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160644.png
+![Blog-2-Example](https://github.com/HabibaAbdelaziz/Backend-Blog-Website-Project/blob/master/Website-images/Screenshot%202024-03-09%20160644.png)
 
