@@ -14,7 +14,7 @@ cd your-repository
 
 3. Install the dependencies using npm:
 
-npm install
+'npm install'
 
 
 Note: The `node_modules` directory is not included in this repository due to its large size.
